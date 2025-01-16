@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Gowtham",
+      "email": "abc@gmail.com",
+      "phone": "1234567890",
+      "website": "www.abc.com"
+    },
+    {
+      "id": "2",
+      "name": "Priya",
+      "email": "priya@example.com",
+      "phone": "0987654321",
+      "website": "www.priya.com"
+    },
+    {
+      "id": "3",
+      "name": "Rahul",
+      "email": "rahul@example.com",
+      "phone": "1122334455",
+      "website": "www.rahul.com"
+    },
+    {
+      "id": "4",
+      "name": "Anjali",
+      "email": "anjali@example.com",
+      "phone": "5566778899",
+      "website": "www.anjali.com"
+    },
+    {
+      "id": "5",
+      "name": "Vikram",
+      "email": "vikram@example.com",
+      "phone": "6677889900",
+      "website": "www.vikram.com"
+    },
+    {
+      "id": "6",
+      "name": "Sneha",
+      "email": "sneha@example.com",
+      "phone": "7788990011",
+      "website": "www.sneha.com"
+    },
+    {
+      "id": "7",
+      "name": "Arjun",
+      "email": "arjun@example.com",
+      "phone": "889900112999",
+      "website": "www.arjun.com"
+    },
+    {
+      "id": "8",
+      "name": "Meera",
+      "email": "meera@example.com",
+      "phone": "9900112233",
+      "website": "www.meera.com"
+    },
+    {
+      "id": "9",
+      "name": "Kiran",
+      "email": "kiran@example.com",
+      "phone": "1011121314",
+      "website": "www.kiran.com"
+    }
+  ]
+}
